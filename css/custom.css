@@ -1,0 +1,9 @@
+#sub-content {
+  position: relative;
+  overflow: hidden;
+}
+
+#content {
+  position: relative;
+  overflow: hidden;
+}
